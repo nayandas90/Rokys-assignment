@@ -1,0 +1,76 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.navigation{
+    text-align: right;
+}
+.navigation a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding-left: 05%;
+}
+/* end of navigation sector start of 1st sector  */
+
+.first-container{
+    margin-left: 10%;
+    display: flex;
+}
+
+.header-style {
+    width: 50%;
+    font-size: 50px;
+}
+.header-style span{
+    color: rgb(243, 15, 7);
+}
+.header-style p{
+    
+    font-size: 25px;
+}
+
+.first-container a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 05%;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    border-radius: 5px;
+}
+
+.first-container img{
+    width: 50%;
+    padding-left: 40%;
+}
+
+/* end of first starting second */
+
+.second-container{
+    margin-top: 10%;
+    margin-left: 5%;
+    display: flex;
+}
+.second-container img{
+   width: 500px;
+}
+
+.header-style-2{
+    margin-top: 10%;
+    width: 50%;
+    padding-left: 30%;
+    margin-right: 10%;
+}
+.header-style-2 h1{
+    font-size: 50px;
+}
+.header-style-2 p{
+    font-size: 20px;
+}
+.header-style-2 a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 05%;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    border-radius: 5px;
+}
